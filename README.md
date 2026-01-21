@@ -13,4 +13,3 @@ I’m currently focused on gameplay programming and understanding how games work
 - **OpenGL (C++)**  
 - **Blender**  
 - **Git & GitHub**
-- **PORNHUB**
