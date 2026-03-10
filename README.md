@@ -5,7 +5,7 @@ I’m currently focused on gameplay programming and understanding how games work
 ## 🔧 What am I currently working on?
 - Improving my **OpenGL fundamentals** using C++
 - Building and polishing **Unity gameplay systems**
-- Learning through small, complete projects rather than demos
+- Learning through small projects rather than complete.
 
 ## 🛠 What tools do I use?
 - **Unity (C#)**  
