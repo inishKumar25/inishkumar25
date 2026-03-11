@@ -3,13 +3,13 @@ Hi, I’m **Inish (21)** — a game developer learning by building games and sys
 I’m currently focused on gameplay programming and understanding how games work under the hood.
 
 ## 🔧 What am I currently working on?
-- Improving my **OpenGL fundamentals** using C++
+- Improving my **Raylib fundamentals** using C++
 - Building and polishing **Unity gameplay systems**
 - Learning through small projects rather than complete.
 
 ## 🛠 What tools do I use?
 - **Unity (C#)**  
 - **Unreal Engine (C++)**  
-- **OpenGL (C++)**  
+- **Raylib (C++)**  
 - **Blender**  
 - **Git & GitHub**
