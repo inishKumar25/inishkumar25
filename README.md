@@ -10,6 +10,6 @@ I’m currently focused on gameplay programming and understanding how games work
 ## 🛠 What tools do I use?
 - **Unity (C#)**  
 - **Unreal Engine (C++)**  
-- **Raylib (C++)**  
+- **Raylib and OpenGL (C++)**  
 - **Blender**  
 - **Git & GitHub**
